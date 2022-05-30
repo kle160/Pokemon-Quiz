@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg-container {
+    background: url(../Assets/pokeBackground.png);
+    height: 100vh;
+    width: 100vw; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  h1 {
+      text-align: center;
+      line-height: 7.5;
+  }
+
+  h2 {
+      text-align: center;
+  }
