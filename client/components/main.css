@@ -18,10 +18,14 @@ body, html {
   }
 
   h1 {
-      text-align: center;
-      line-height: 7.5;
+    text-align: center;
+    line-height: 7.5;
   }
 
   h2 {
-      text-align: center;
+    text-align: center;
+  }
+
+  .inputForm {
+    text-align: center;
   }
