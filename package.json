@@ -40,11 +40,13 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-router-dom": "^6.3.0",
+    "react-simple-typewriter": "^3.0.1",
     "sass": "^1.51.0",
     "sass-loader": "^13.0.0",
     "scss": "^0.2.4",
     "scss-loader": "^0.0.1",
     "style-loader": "^3.3.1",
+    "typewriter-effect": "^2.18.2",
     "webpack": "^5.72.1",
     "webpack-dev-server": "^4.9.0"
   }

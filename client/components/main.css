@@ -1,3 +1,5 @@
+@import url('http://fonts.cdnfonts.com/css/pokemon-solid');
+
 * {
     margin: 0;
     padding: 0;
@@ -24,8 +26,16 @@ body, html {
 
   h2 {
     text-align: center;
+    font-family: 'Pokemon Solid', sans-serif;
+    color: rgb(207, 50, 50);
+    line-height: 3;
   }
 
   .inputForm {
     text-align: center;
+  }
+
+  .welcome-text {
+    text-align: center;
+    font-size: 100;
   }
